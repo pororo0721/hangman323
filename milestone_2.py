@@ -24,3 +24,10 @@
 
 geuss = input("Enter a single letters:")
 
+# Task 4: Check that the input is a single character
+
+if len(geuss) == 1 and geuass.isalpha():
+    print("Good guess!")
+
+else:
+    print("Opps! That is not a valid input.")
