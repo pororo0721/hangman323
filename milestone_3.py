@@ -1,4 +1,4 @@
-# Task 2: Iteratively check if the input is a valid guess
+# Task 1: Iteratively check if the input is a valid guess
 
 # Step 1: Create a while loop and set the condition to True. 
 # Setting the condition to True ensures that the code runs continuously.
